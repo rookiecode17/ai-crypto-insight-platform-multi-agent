@@ -112,7 +112,7 @@ Open:
 http://localhost:5173
 ```
 
-## Multi-agent workflow
+## Multi agent workflow
 
 ```text
 START
