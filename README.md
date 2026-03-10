@@ -1,4 +1,4 @@
-# AI Crypto Insight Platform (Multi-Agent Edition)
+# AI Crypto Insight Platform (Multi Agent Edition)
 
 A full-stack crypto market analysis project built with React, Spring Boot, Redis, FastAPI, and LangGraph.
 
@@ -131,8 +131,8 @@ START
 
 ## Key Features
 
-- Built a **multi-agent crypto market analysis platform** using LangGraph to orchestrate specialized Market, Signal, Risk, and Supervisor agents for structured reasoning over market data.
+- Built a **multi agent crypto market analysis platform** using LangGraph to orchestrate specialized Market, Signal, Risk, and Supervisor agents for structured reasoning over market data.
 
-- Implemented a **FastAPI-based AI service** to expose reusable agent workflows and structured LLM outputs including stance, confidence scores, signals, and risk factors.
+- Implemented a **FastAPI based AI service** to expose reusable agent workflows and structured LLM outputs including stance, confidence scores, signals, and risk factors.
 
 - Introduced **Redis caching** for market datasets and AI outputs to reduce repeated third-party API calls and improve response latency.
