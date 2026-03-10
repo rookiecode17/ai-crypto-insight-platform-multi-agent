@@ -1,6 +1,6 @@
 # AI Crypto Insight Platform (Multi Agent Edition)
 
-A full-stack crypto market analysis project built with React, Spring Boot, Redis, FastAPI, and LangGraph.
+A Fullstack crypto market analysis project built with React, Spring Boot, Redis, FastAPI, and LangGraph.
 
 ## What changed in this version
 
@@ -22,11 +22,11 @@ The LangGraph workflow still fetches market data and computes indicators first, 
 
 ## Features
 
-- Multi-coin support: BTC, ETH, SOL
+- Multi coin support: BTC, ETH, SOL
 - Current market metrics
 - Historical price/volume charts (7/30/90 days)
 - OHLC visualization
-- Multi-agent AI outlook with:
+- Multi agent AI outlook with:
   - stance
   - confidence
   - signals
